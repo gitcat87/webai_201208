@@ -13,5 +13,5 @@ int main(){
 
     printf("total = %d", total);
 
-    return 0;
+    return 0;  
 }

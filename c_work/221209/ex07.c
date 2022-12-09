@@ -10,7 +10,7 @@ int main()
         scanf("%d",&num);
         total =total + num;
     }
-    while( num !=0 );
+    while( num! =0 );
 
     printf("total = %d",total);
 
