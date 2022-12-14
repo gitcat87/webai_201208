@@ -8,10 +8,7 @@ int main(){
     {
         if(num%7==0||num%9==0)
             printf("7또는 9의 배수 : %d \n",num);        
-
-        
-        
-          
+         
         
         if(num%7==0&&num%9==0)
             printf("7과 9의 배수 : %d\n",num);
